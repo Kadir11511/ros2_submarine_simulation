@@ -1,2 +1,2 @@
-# ros2_submarine_simulation
+# ros2_ws
 ROS2 Gazebo simulation for an autonomous submarine
