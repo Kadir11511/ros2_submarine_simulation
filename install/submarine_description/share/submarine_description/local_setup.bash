@@ -1,0 +1,1 @@
+/home/ubuntu/Desktop/ros2_ws/build/submarine_description/ament_cmake_environment_hooks/local_setup.bash

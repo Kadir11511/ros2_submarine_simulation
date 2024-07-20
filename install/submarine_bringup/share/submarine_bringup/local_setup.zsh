@@ -1,0 +1,1 @@
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/ament_cmake_environment_hooks/local_setup.zsh

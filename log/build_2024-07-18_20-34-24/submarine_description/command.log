@@ -1,0 +1,4 @@
+Invoking command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Desktop/ros2_ws/build/submarine_description -- -j12 -l12
+Invoked command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Desktop/ros2_ws/build/submarine_description -- -j12 -l12
+Invoking command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Desktop/ros2_ws/build/submarine_description
+Invoked command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Desktop/ros2_ws/build/submarine_description

@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/urdf/common_properties_1.xacro
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/urdf/my_robot_1.urdf.xacro
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/urdf/submarine.xacro
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/launch/display.launch.xml
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/rviz/urdf_config.rviz
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/ament_index/resource_index/package_run_dependencies/submarine_description
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/ament_index/resource_index/parent_prefix_path/submarine_description
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/environment/path.sh
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/environment/path.dsv
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/local_setup.bash
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/local_setup.sh
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/local_setup.zsh
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/local_setup.dsv
+-- Symlinking: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/package.dsv
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/ament_index/resource_index/packages/submarine_description
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/cmake/submarine_descriptionConfig.cmake
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/cmake/submarine_descriptionConfig-version.cmake
+-- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description/package.xml

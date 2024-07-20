@@ -1,0 +1,16 @@
+[0.015s] Invoking command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Desktop/ros2_ws/build/submarine_description -- -j12 -l12
+[0.076s] Invoked command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/Desktop/ros2_ws/build/submarine_description -- -j12 -l12
+[0.117s] Invoking command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Desktop/ros2_ws/build/submarine_description
+[0.134s] -- Install configuration: ""
+[0.135s] -- Execute custom install script
+[0.136s] -- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description//urdf/submarine.urdf
+[0.136s] -- Up-to-date symlink: /home/ubuntu/Desktop/ros2_ws/install/submarine_description/share/submarine_description//launch/display.launch.xml
+[0.137s] [31mCMake Error at ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:100 (message):
+[0.137s]   ament_cmake_symlink_install_directory() can't find
+[0.137s]   '/home/ubuntu/Desktop/ros2_ws/src/submarine_description/rviz'
+[0.137s] Call Stack (most recent call first):
+[0.137s]   ament_cmake_symlink_install/ament_cmake_symlink_install.cmake:314 (ament_cmake_symlink_install_directory)
+[0.137s]   cmake_install.cmake:46 (include)
+[0.138s] 
+[0.138s] [0m
+[0.140s] Invoked command in '/home/ubuntu/Desktop/ros2_ws/build/submarine_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/Desktop/ros2_ws/build/submarine_description

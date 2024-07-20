@@ -1,0 +1,9 @@
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/uninstall.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/submarine_bringup_uninstall.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/test.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/list_install_components.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/install.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/install/local.dir
+/home/ubuntu/Desktop/ros2_ws/build/submarine_bringup/CMakeFiles/install/strip.dir
